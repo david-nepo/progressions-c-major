@@ -3,3 +3,9 @@ Progression 1
 C major 7
 D m 7
 F maj 7
+
+Progression 2
+
+A m 7
+G 7
+F maj 7
